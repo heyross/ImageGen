@@ -1,0 +1,2 @@
+A 50' tall giant porn star walking naked down the las Vegas Strip, her large breasts swaying as she strides among the neon, photorealistic, nudity, detailed and towering over cars and street features, front facing, exposed vagina and breasts
+Steps: 67, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 3311549280, Face restoration: GFPGAN, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, Version: v1.10.1

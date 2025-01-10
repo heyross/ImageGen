@@ -1,0 +1,7 @@
+PyQt6==6.5.0
+requests==2.31.0
+pillow==10.0.0
+numpy==1.24.3
+torch
+transformers
+accelerate
